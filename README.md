@@ -2,6 +2,10 @@
 
 🚀 Analyze CSV files effortlessly using LLaMA 3 (8B) and Gradio!
 
+
+
+
+
 🔹 Features
 
 ✅ Upload & Validate CSV – Ensures correct file format and displays column names.
